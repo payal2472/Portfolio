@@ -917,8 +917,9 @@ a:focus {
     margin: -30px 15px 30px 15px;
     display: flex;
     align-items: center;
-    background: #ffffff;
+    background: rgba(0, 0, 0, 0.8);
     box-shadow: 0 0 15px rgba(0, 0, 0, .12);
+
 }
 
 .portfolio .portfolio-text h3 {
@@ -928,6 +929,7 @@ a:focus {
     margin: 0 0 0 15px;
     white-space: nowrap;
     overflow: hidden;
+    
 }
 
 .portfolio .portfolio-text a.btn {
@@ -1505,7 +1507,7 @@ a:focus {
 /*******************************/
 /********* Footer CSS **********/
 /*******************************/
-.footer {
+/*.footer {
     position: relative;
     background: radial-gradient(circle at center,  rgba(237, 81, 232, 0.95),rgba(26, 25, 25, 0.95), rgba(237, 81, 232, 0.95),rgba(26, 25, 25, 0.95));
     border-top: 5px solid white
@@ -1637,8 +1639,8 @@ a:focus {
         margin-left:0px;
         padding-left:0px
     }
-}
-#contact{
+}*/
+/*#contact{
     background: radial-gradient(circle at center,  rgba(237, 81, 232, 0.95),rgba(26, 25, 25, 0.95), rgba(237, 81, 232, 0.95),rgba(26, 25, 25, 0.95));
     
 }
@@ -1733,7 +1735,7 @@ footer {
   .uneditable-input:focus {
     box-shadow: 0 1px 1px rgba(0, 0, 0, 0) inset, 0 0 8px rgba(0, 0, 0, 0);
     outline: 0 none;
-  }
+  }*/
   
   /*============ TOP SCROLL ============*/
   .top-scroll svg.svg-inline--fa {
